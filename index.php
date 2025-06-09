@@ -1,4 +1,7 @@
 <?php
+
+phpinfo();
+
 /**
  * Requests collector.
  *
