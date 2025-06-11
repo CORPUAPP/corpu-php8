@@ -110,7 +110,7 @@ if (isset($filePresent)):
 				echo '<span class="notice">';
 					echo __d('cake_dev', 'CakePHP is NOT able to connect to the database.');
 					echo '<br /><br />';
-					echo $errorMsg;
+					echo isset($errorMsg) ? h($errorMsg) : 'No error message captured.';
 				echo '</span>';
 			endif;
 		?>

@@ -1,6 +1,6 @@
 {
 	"intelephense.environment.phpVersion": "8.1.0",
-	"php.validate.executablePath": "D:/Proxectos/CORPUdocker-php81/php-8.1.32",
+	"php.validate.executablePath": "D:/Proxectos/CORPU/docker-php81/php-8.1.32/php.exe",
 	"intelephense.diagnostics.undefinedTypes": false,
 	"intelephense.diagnostics.undefinedFunctions": false,
 	"intelephense.diagnostics.undefinedConstants": false
